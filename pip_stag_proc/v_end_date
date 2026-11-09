@@ -1,0 +1,1 @@
+@addToTime(concat(variables('v_date'), '-01'),1,'Month')
